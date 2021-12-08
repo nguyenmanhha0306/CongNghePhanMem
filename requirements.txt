@@ -1,0 +1,7 @@
+Dash
+flask
+tensorflow
+numpy
+pybase64
+opencv-python
+Pillow
